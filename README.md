@@ -27,15 +27,15 @@ OR
 ```
 
 
-##License
+## License
 
 Free license
 
-#Contact
+## Contact
 
 Genet Abay Shiferaw: genetabay.s@gmail.com
 Repository link : https://github.com/Genet-Abay/Hangman_Game.git
 
-##Acknowledgments
+## Acknowledgments
 
 BeCode AI Arai4 coaches
