@@ -39,4 +39,4 @@ Repository link : https://github.com/Genet-Abay/Hangman_Game.git
 
 ## Acknowledgments
 
-BeCode AI Arai4 coaches
+BeCode Arai4 AI coaches(Chrysanthi and Louis)
