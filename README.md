@@ -1,7 +1,8 @@
 # Hangman_Game
 This project implements a hangman game. It is a simple game where one or more players try to guess a word, each turn suggesting a letter.
 
-##Prerequisites
+## Prerequisites
+
 python3 should be installed
 
 

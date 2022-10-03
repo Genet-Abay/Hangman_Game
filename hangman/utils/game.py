@@ -1,4 +1,5 @@
 import re
+
 class Hangman:
     '''
     A class defines a hangman game. The class contains all the attribute and functions to play the game
@@ -16,11 +17,11 @@ class Hangman:
         self.bad_guessed_letters = []
         self.turn_count =0
         self.error_count =0
-        self.lives = self.len_possible_words
+        self.lives = 5
 
     def play(self):
         '''
-        function which holds the main process to play the game. it is iteratevly called by the start function antil the game is alive
+        function which holds the main process to play the game. it is iteratevly called by the start function until game ended
         '''
         self.turn_count+=1
         letter_guessed = input("guess a letter: ")
